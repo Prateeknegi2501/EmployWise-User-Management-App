@@ -2,7 +2,10 @@
 
 ## Overview
 
-EmployWise is a simple React-based user management application that allows users to log in, view a paginated list of users, edit user details, and delete users. The app interacts with the (https://reqres.in/) for data fetching and user management.
+EmployWise is a simple React-based user management application that allows users to log in, view a paginated list of users, edit user details, and delete users. The app interacts with the  [Reqres API](https://reqres.in/) for data fetching and user management.
+
+## Live Link
+[Employee Wise User Management App](https://employ-wise-user-management-app-mb3c.vercel.app/)
 
 ## Features
 
@@ -27,3 +30,4 @@ EmployWise is a simple React-based user management application that allows users
 - Axios
 
 - Tailwind CSS
+
